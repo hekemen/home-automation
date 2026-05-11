@@ -70,9 +70,9 @@ An open-source, community-driven smart home ecosystem focused on reliability, pr
 
 * [ ] **Fiber Upgrade:** Install [Zaram XGS-PON ONU SFP+](https://www.routershop.nl/p/zaram-xgs-pon-onu-sfp-module-84384) for direct fiber termination.
 * [ ] **Energy Storage System (ESS):**
-* [Victron MultiPlus-II 48/5000/70](https://www.victronenergy.com/inverters-chargers/multiplus-ii) Inverter/Charger.
-* [Gobel Power 15kWh DIY Battery Kit](https://www.gobelpower.com/eu-stock-gobel-power-512v-lifepo4-battery-case-diy-kit-with-eve-314ah-cells_p262.html) (EVE 314Ah cells).
-* Dedicated Raspberry Pi 4 (PoE) running Venus OS for ESS management.
+* [ ] [Victron MultiPlus-II 48/5000/70](https://www.victronenergy.com/inverters-chargers/multiplus-ii) Inverter/Charger.
+* [ ] [Gobel Power 15kWh DIY Battery Kit](https://www.gobelpower.com/eu-stock-gobel-power-512v-lifepo4-battery-case-diy-kit-with-eve-314ah-cells_p262.html) (EVE 314Ah cells).
+* [ ] Dedicated Raspberry Pi 4 (PoE) running Venus OS for ESS management.
 
 
 * [ ] **HVAC:** [Vaillant aroTHERM plus](https://www.vaillant.com/home/products/air-to-water-heat-pump-system-arotherm-plus-12096.html) Air-to-Water Heat Pump.
