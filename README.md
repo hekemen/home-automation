@@ -26,7 +26,7 @@ An open-source, community-driven smart home ecosystem focused on reliability, pr
 
 ### Energy & Infrastructure
 
-* **Solar:** Growatt Inverter (3kW Grid-coupled).
+* **Solar:** Growatt Inverter (3kW Grid-coupled). (https://github.com/hekemen/growatt-inverter-dongle)
 * **Metering:** P1 Cable for direct smart meter data acquisition.
 * **Wiring:** Existing PSTN and TV conduits repurposed for **CAT6 Ethernet** backhaul.
 
